@@ -303,7 +303,7 @@ Main Components
 .cd-horizontal-timeline .events-content h2 {
   font-weight: bold;
   font-size: 2.6rem;
-  font-family: "Source Sans Pro", serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-weight: 700;
   line-height: 1.2;
 }
