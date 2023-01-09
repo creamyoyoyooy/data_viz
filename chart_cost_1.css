@@ -4,11 +4,6 @@ body {
 	width:100%;
 	background:black;}
 
-*:before,
-*:after {
-  box-sizing: inherit;
-}
-
 .ggv {
 	visibility: hidden;
 } 
